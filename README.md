@@ -1,41 +1,38 @@
-# Hi, I'm Shahd Mohamed Sayed 👋
-### Data Analyst | Information Science Student
+# Hi there, I'm Shahd Mohamed Sayed! 👋 📊
 
 ---
 
-## 🚀 Projects
+### 🔍 Data Analyst | Information Science Student
 
-### ⚽ [FC Barcelona Performance Analysis (2015-2025)](https://github.com/shahdsayedh2020246-source/FC-Barcelona-Performance-Analysis)
-*Deep dive into FC Barcelona's match data. Analysis of team performance trends, win/loss ratios, and scoring patterns using Excel and Power Query.*
-> **Tools:** Excel, Power Query, Pivot Tables.
-
-### 📈 [Yat Center Sales Analysis](https://github.com/shahdsayedh2020246-source/Yat-Center-Sales-Analysis)
-*Comprehensive end-to-end sales analysis for Yat Center ($250k volume). Identifying revenue drivers and customer behavior using interactive dashboards.*
-> **Tools:** Excel, Power Query, Data Modeling.
+I transform complex, raw data into clear, actionable insights. I'm passionate about data cleaning, exploratory data analysis (EDA), and building interactive dashboards that drive business decisions.
 
 ---
 
-## 🛠 Skills
-
-### 📊 Data Visualization & Analysis
-- <img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png"/> **Excel:** Advanced Formulas, Power Query, Pivot Tables, Dashboards.
-- <img src="https://img.icons8.com/color/24/000000/power-bi.png"/> **Power BI:** Data Modeling, DAX, Interactive Reports.
-
-### 💻 Programming & Databases
-- <img src="https://img.icons8.com/color/24/000000/postgreesql.png"/> **SQL:** Writing Queries, Data Cleaning (MySQL, SQL Server).
-- <img src="https://img.icons8.com/color/24/000000/python--v1.png"/> **Python:** Data Manipulation (Pandas, Seaborn).
-
-### 📚 Core Competencies
-- <img src="https://img.icons8.com/color/24/000000/info.png"/> Information Science, Data Extraction, Business Decision Making.
+### 👨‍💻 About Me
+* 🎓 **I'm currently an Information Science Student** at the Faculty of Arts.
+* 🏆 **I'm a Data Analysis Trainee** at the Digital Egypt Pioneers Initiative (DEPI).
+* 💡 I specialize in taking the guesswork out of decision-making using **Python, SQL, Power BI, and Excel**.
+* 🗣 **Ask me about:** Data Cleaning, Interactive Dashboards, and SQL Queries.
+* 📫 **How to reach me:** [shahdsayedh2020246@gmail.com](mailto:shahdsayedh2020246@gmail.com)
 
 ---
 
-## 🎓 Education & Certifications
-- 🎓 **Undergraduate Student:** Faculty of Arts, Information Science Department.
-- 🏆 **Certified Data Analyst:** Digital Egypt Pioneers Initiative (DEPI).
+### 🛠 My Superpowers (Tech Stack)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-mohamed-sayed)
+### 🚀 Featured Data Projects
+* ⚽ **[FC Barcelona Performance Analysis](https://github.com/shahdsayedh2020246-source/FC-Barcelona-Performance-Analysis):** Analyzed a decade of match data to uncover performance trends and scoring patterns.
+* 📈 **[Yat Center Sales Analysis](https://github.com/shahdsayedh2020246-source/Yat-Center-Sales-Analysis):** Analyzed $250k in sales data to identify revenue drivers and improve business strategies.
+
+---
+
+### 🔗 Let's unlock your data
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-mohamed-sayed)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201012345678)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdsayedh2020246@gmail.com)
