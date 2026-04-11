@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Shahd Mohamed Sayed 👋
 
-<!--
-**shahdsayedh2020246-source/shahdsayedh2020246-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Analyst | Information Science Student 📊
 
-Here are some ideas to get you started:
+I am a passionate Junior Data Analyst with a focus on turning raw data into actionable insights. I specialize in data cleaning, exploration, and creating interactive visualizations to support business decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Technical Toolkit:
+- **Data Analysis:** SQL (MySQL, SQL Server), Microsoft Excel (Advanced).
+- **Visualization:** Power BI (DAX), Seaborn, Matplotlib.
+- **Languages:** Python (Pandas, NumPy).
+- **Key Skills:** Data Cleaning, EDA, Dashboard Design.
+
+---
+
+### 🚀 Highlighted Projects:
+- **FC Barcelona Analytics Dashboard:** An interactive Excel-based dashboard analyzing match data (2015-2025).
+- **Yat Center Sales Analysis:** End-to-end analysis of $250k sales volume to identify growth opportunities.
+- **University Archive System:** Developing a centralized database for academic projects.
+
+---
+
+### 🌐 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/shahd-mohamed-sayed-16062b356)
+- 📧 Email: shahdsayedh2020246@gmail.com
+
+---
+> "Data is the new oil, but cleaning it is the real refinery." 💡
