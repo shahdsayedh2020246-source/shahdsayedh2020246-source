@@ -18,23 +18,24 @@
 ## 🛠 Skills
 
 ### 📊 Data Visualization & Analysis
-- **Excel:** Advanced Formulas, Power Query, Pivot Tables, Dashboards.
-- **Power BI:** Data Modeling, DAX, Interactive Reports.
+- <img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png"/> **Excel:** Advanced Formulas, Power Query, Pivot Tables, Dashboards.
+- <img src="https://img.icons8.com/color/24/000000/power-bi.png"/> **Power BI:** Data Modeling, DAX, Interactive Reports.
 
 ### 💻 Programming & Databases
-- **SQL:** Writing Queries, Data Cleaning (MySQL, SQL Server).
-- **Python:** Data Manipulation (Pandas, Seaborn).
+- <img src="https://img.icons8.com/color/24/000000/postgreesql.png"/> **SQL:** Writing Queries, Data Cleaning (MySQL, SQL Server).
+- <img src="https://img.icons8.com/color/24/000000/python--v1.png"/> **Python:** Data Manipulation (Pandas, Seaborn).
 
 ### 📚 Core Competencies
-- Information Science, Data Extraction, Business Decision Making.
+- <img src="https://img.icons8.com/color/24/000000/info.png"/> Information Science, Data Extraction, Business Decision Making.
 
 ---
 
 ## 🎓 Education & Certifications
-- **Undergraduate Student:** Faculty of Arts, Information Science Department.
-- **Certified Data Analyst:** Digital Egypt Pioneers Initiative (DEPI).
+- 🎓 **Undergraduate Student:** Faculty of Arts, Information Science Department.
+- 🏆 **Certified Data Analyst:** Digital Egypt Pioneers Initiative (DEPI).
 
 ---
 
 ## 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/shahd-mohamed-sayed) | [WhatsApp](https://wa.me/201012345678) | [Upwork](https://www.upwork.com/freelancers/~yourid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-mohamed-sayed)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201012345678)
