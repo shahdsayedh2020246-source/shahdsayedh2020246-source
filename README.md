@@ -15,7 +15,7 @@ I am a passionate Junior Data Analyst with a focus on turning raw data into acti
 ---
 
 ### 🚀 Highlighted Projects:
-- **FC Barcelona Analytics Dashboard:** An interactive Excel-based dashboard analyzing match data (2015-2025).
+- **[FC Barcelona Analytics Dashboard](https://github.com/shahdsayedh2020246-source/FC-Barcelona-Analytics):** An interactive Excel-based dashboard analyzing match data (2015-2025).
 - **Yat Center Sales Analysis:** End-to-end analysis of $250k sales volume to identify growth opportunities.
 - **University Archive System:** Developing a centralized database for academic projects.
 
