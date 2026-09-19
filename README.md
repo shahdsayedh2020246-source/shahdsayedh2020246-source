@@ -10,12 +10,6 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-mohamed-sayed-16062b356/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdsayedh2020246@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201121240919)
-
-<img src="https://komarev.com/ghpvc/?username=shahdsayedh2020246-source&color=764ABA&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:764ba2,100:667eea&height=3&section=header" width="100%"/>
