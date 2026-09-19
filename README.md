@@ -24,7 +24,6 @@ Raw data is chaos. I turn it into a story people can actually act on — through
 - 🏆 **Data Analysis Trainee** at the **Digital Egypt Pioneers Initiative (DEPI)** — sharpening the craft with real projects
 - 💡 No more guessing games: I turn gut-feeling decisions into **data-backed ones** using **Python, SQL, Power BI, Tableau,** and **Excel**
 - 🗣 **Talk to me about:** Data Cleaning · Interactive Dashboards · SQL Queries — I never get tired of this stuff
-- 📫 **Got data that needs a voice?** [shahdsayedh2020246@gmail.com](mailto:shahdsayedh2020246@gmail.com)
 
 <br clear="right"/>
 
