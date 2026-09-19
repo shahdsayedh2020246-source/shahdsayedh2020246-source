@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shahd%20Mohamed%20Sayed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20Into%20Real%20Decisions&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shahd%20Mohamed%20Sayed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20Don't%20Just%20Read%20Data%20%E2%80%94%20I%20Make%20It%20Talk&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/shahd-mohamed-sayed-16062b356/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=764ABA&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Information+Science+Student;Turning+Raw+Data+Into+Clear+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Let's+Build+Something+Data-Driven+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=764ABA&center=true&vCenter=true&width=650&lines=Turning+Messy+Data+Into+Million-Dollar+Decisions;Data+Analyst+%7C+Dashboard+Builder+%7C+Insight+Hunter;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;If+It+Has+Numbers%2C+I+Can+Tell+You+Its+Story+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -24,19 +24,19 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif">
 
-I'm passionate about **data cleaning**, **exploratory data analysis (EDA)**, and building **interactive dashboards** that drive business decisions.
+Raw data is chaos. I turn it into a story people can actually act on — through **relentless data cleaning**, sharp **exploratory analysis (EDA)**, and **dashboards that make executives stop scrolling and start deciding**.
 
-- 🎓 Currently an **Information Science Student** at the Faculty of Arts
-- 🏆 **Data Analysis Trainee** at the **Digital Egypt Pioneers Initiative (DEPI)**
-- 💡 I specialize in taking the guesswork out of decision-making using **Python, SQL, Power BI, Tableau,** and **Excel**
-- 🗣 **Ask me about:** Data Cleaning · Interactive Dashboards · SQL Queries
-- 📫 **Reach me at:** [shahdsayedh2020246@gmail.com](mailto:shahdsayedh2020246@gmail.com)
+- 🎓 **Information Science Student** at the Faculty of Arts — building the theory behind the craft
+- 🏆 **Data Analysis Trainee** at the **Digital Egypt Pioneers Initiative (DEPI)** — sharpening the craft with real projects
+- 💡 No more guessing games: I turn gut-feeling decisions into **data-backed ones** using **Python, SQL, Power BI, Tableau,** and **Excel**
+- 🗣 **Talk to me about:** Data Cleaning · Interactive Dashboards · SQL Queries — I never get tired of this stuff
+- 📫 **Got data that needs a voice?** [shahdsayedh2020246@gmail.com](mailto:shahdsayedh2020246@gmail.com)
 
 <br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&section=header" width="100%"/>
 
-## 🛠 Tech Stack
+## 🛠 The Arsenal
 
 <div align="center">
 
@@ -51,7 +51,7 @@ I'm passionate about **data cleaning**, **exploratory data analysis (EDA)**, and
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:764ba2,100:667eea&height=3&section=header" width="100%"/>
 
-## 📊 GitHub Stats
+## 📊 The Numbers Behind the Grind
 
 <div align="center">
 
@@ -64,7 +64,7 @@ I'm passionate about **data cleaning**, **exploratory data analysis (EDA)**, and
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&section=header" width="100%"/>
 
-## 🔗 Let's Unlock Your Data Together
+## 🔗 Got a Dataset With a Story to Tell?
 
 <div align="center">
 
