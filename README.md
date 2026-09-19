@@ -14,7 +14,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdsayedh2020246@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201121240919)
 
-<img src="https://komarev.com/ghpvc/?username=shahdsayedh2020246&color=764ABA&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=shahdsayedh2020246-source&color=764ABA&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
@@ -55,10 +55,10 @@ Raw data is chaos. I turn it into a story people can actually act on — through
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahdsayedh2020246&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahdsayedh2020246&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shahdsayedh2020246-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahdsayedh2020246-source&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdsayedh2020246&layout=compact&theme=tokyonight&hide_border=true" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdsayedh2020246-source&layout=compact&theme=tokyonight&hide_border=true" width="55%"/>
 
 </div>
 
