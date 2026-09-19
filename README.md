@@ -24,6 +24,7 @@ Raw data is chaos. I turn it into a story people can actually act on — through
 - 🏆 **Data Analysis Trainee** at the **Digital Egypt Pioneers Initiative (DEPI)** — sharpening the craft with real projects
 - 💡 No more guessing games: I turn gut-feeling decisions into **data-backed ones** using **Python, SQL, Power BI, Tableau,** and **Excel**
 - 🗣 **Talk to me about:** Data Cleaning · Interactive Dashboards · SQL Queries — I never get tired of this stuff
+- 📫 **Got data that needs a voice?** [shahdsayedh2020246@gmail.com](mailto:shahdsayedh2020246@gmail.com)
 
 <br clear="right"/>
 
@@ -48,10 +49,7 @@ Raw data is chaos. I turn it into a story people can actually act on — through
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahdsayedh2020246-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahdsayedh2020246-source&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdsayedh2020246-source&layout=compact&theme=tokyonight&hide_border=true" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahdsayedh2020246-source&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
