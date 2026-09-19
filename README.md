@@ -39,6 +39,8 @@ Raw data is chaos. I turn it into a story people can actually act on — through
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos_Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 </div>
 
