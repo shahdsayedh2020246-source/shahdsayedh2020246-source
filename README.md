@@ -56,13 +56,21 @@ Detail-oriented **Data Analyst** (Information Science, Fayoum University) who bu
 
 ---
 
+<div align="center">
+
 ## 🤝 Let's Work Together
 
-Need a clean dataset, a solid data model, or a dashboard your team will actually use? **Let's talk.**
+**Need a clean dataset, a solid data model, or a dashboard your team will actually use?**
+<br/>
+I'm open to **Data Analyst / BI Developer** roles and **freelance** projects.
 
-📫 shahdsayedh2020246@gmail.com · 📱 +20 112 124 0919
+<br/>
 
-<div align="center">
+<a href="mailto:shahdsayedh2020246@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/201121240919"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F2C811&height=100&section=footer" width="100%" alt="footer" />
 
