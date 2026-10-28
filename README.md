@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shahd%20Mohamed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Business%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F2C811&height=200&section=header&text=Shahd%20Mohamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="header" />
+
+### Data & Business Analyst · Power BI Developer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2C811&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Clean+data.+Smart+models.+Powerful+dashboards.;Open+to+work+%26+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" />
@@ -73,6 +75,6 @@ Need a clean dataset, a solid data model, or a dashboard your team will actually
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F2C811&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
