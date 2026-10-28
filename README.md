@@ -16,38 +16,34 @@ Data analyst in training with a focus on **data cleaning, exploratory analysis, 
 
 ## Core Competencies
 
-| Area | What I do |
-|:--|:--|
-| **Data Cleaning** | Handle missing values, duplicates, inconsistent formats, and outliers so the analysis rests on reliable data |
-| **Exploratory Analysis (EDA)** | Uncover trends, distributions, and relationships that answer the business question |
-| **SQL** | Write queries to extract, join, filter, and aggregate data from relational databases |
-| **Dashboards & Reporting** | Build interactive dashboards that communicate KPIs and insights clearly |
+- **Data Cleaning:** handling missing values, duplicates, inconsistent formats, and outliers so the analysis rests on reliable data.
+- **Exploratory Analysis (EDA):** uncovering trends, distributions, and relationships that answer the business question.
+- **SQL:** extracting, joining, filtering, and aggregating data from relational databases.
+- **Dashboards & Reporting:** building interactive dashboards that communicate KPIs and insights clearly.
 
 ## Tech Stack
 
 <div align="center">
 
-| | |
-|:--|:--|
-| **Analysis & Querying** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-07405E?style=flat-square&logo=postgresql&logoColor=white) |
-| **Visualization & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white) ![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-052FAD?style=flat-square&logo=ibm&logoColor=white) |
-| **Spreadsheets** | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white) |
+**Analysis & Querying**<br/>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=flat-square&logo=postgresql&logoColor=white)
+
+**Visualization & BI**<br/>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+**Spreadsheets**<br/>
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 
 </div>
 
-## Featured Projects
-
-| Project | Business question | Approach | Tools |
-|:--|:--|:--|:--|
-| [**Project Name**](#) | What problem does it solve? | Clean → Analyze → Visualize | Python, Power BI |
-| [**Project Name**](#) | What problem does it solve? | Clean → Analyze → Visualize | SQL, Tableau |
-| [**Project Name**](#) | What problem does it solve? | Clean → Analyze → Visualize | Excel |
-
-> Replace the placeholders with your real projects. For each one, add a key finding with a number (for example, "identified a 12% drop in repeat customers").
-
 ## Education & Training
 
-- **Bachelor's in Information Science**, Faculty of Arts
+- **Information Science**, Faculty of Arts
 - **Data Analysis Trainee**, Digital Egypt Pioneers Initiative (DEPI)
 
 ## GitHub Activity
