@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F2C811&height=200&section=header&text=Shahd%20Mohamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:F2C811&height=200&section=header&text=Shahd%20Mohamed%20Sayed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="header" />
 
 ### Data & Business Analyst · Power BI Developer
 
@@ -13,7 +13,7 @@
 <a href="mailto:shahdsayedh2020246@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=shahdsayedh2020246-source&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
 
 </div>
 
@@ -34,36 +34,25 @@ Detail-oriented **Data Analyst** (Information Science, Fayoum University) who bu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,powerbi,figma,jupyter,pandas,numpy,git,github&theme=dark" />
-<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
 **What I do best:** 🧹 Data Cleaning (CTEs, Window Functions, Power Query) · 🗄️ Star-Schema Modeling · 📈 DAX & KPI Dashboards · 🔍 EDA · 📖 Data Storytelling
-
----
-
-## 🏅 Certifications
-
-`DEPI Data Analyst Specialist` · `Alex The Analyst Bootcamp` · `ALX Africa Data Analytics`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
