@@ -8,13 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2C811&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+business+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Clean+data.+Smart+models.+Powerful+dashboards.;Open+to+work+%26+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<a href="mailto:shahdsayedh2020246@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=shahdsayedh2020246-source&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
-
 </div>
 
 ---
