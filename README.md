@@ -1,57 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=170&section=header&text=Shahd%20Mohamed%20Sayed&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst&descAlignY=62&descSize=20" width="100%" alt="Shahd Mohamed Sayed, Data Analyst"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Shahd%20Mohamed%20Sayed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20Don't%20Just%20Read%20Data%20%E2%80%94%20I%20Make%20It%20Talk&descAlignY=55&descSize=18" width="100%"/>
 
-**Turning raw data into clear, evidence-based decisions.**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-mohamed-sayed-16062b356/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shahdsayedh2020246@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201121240919)
+<a href="https://www.linkedin.com/in/shahd-mohamed-sayed-16062b356/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=764ABA&center=true&vCenter=true&width=650&lines=Turning+Messy+Data+Into+Million-Dollar+Decisions;Data+Analyst+%7C+Dashboard+Builder+%7C+Insight+Hunter;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;If+It+Has+Numbers%2C+I+Can+Tell+You+Its+Story+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-</div>
-
-## Summary
-
-Data analyst in training with a focus on **data cleaning, exploratory analysis, and interactive dashboards**. I work from messy source data to a finished report that decision-makers can read and act on, using Python, SQL, and leading BI tools.
-
-## Core Competencies
-
-- **Data Cleaning:** handling missing values, duplicates, inconsistent formats, and outliers so the analysis rests on reliable data.
-- **Exploratory Analysis (EDA):** uncovering trends, distributions, and relationships that answer the business question.
-- **SQL:** extracting, joining, filtering, and aggregating data from relational databases.
-- **Dashboards & Reporting:** building interactive dashboards that communicate KPIs and insights clearly.
-
-## Tech Stack
-
-<div align="center">
-
-**Analysis & Querying**<br/>
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-07405E?style=flat-square&logo=postgresql&logoColor=white)
-
-**Visualization & BI**<br/>
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
-![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-052FAD?style=flat-square&logo=ibm&logoColor=white)
-
-**Spreadsheets**<br/>
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+<br/><br/>
 
 </div>
 
-## Education & Training
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:764ba2,100:667eea&height=3&section=header" width="100%"/>
 
-- **Information Science**, Faculty of Arts
-- **Data Analysis Trainee**, Digital Egypt Pioneers Initiative (DEPI)
+## 👨‍💻 About Me
 
-## GitHub Activity
+<img align="right" width="280" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif">
+
+Raw data is chaos. I turn it into a story people can actually act on — through **relentless data cleaning**, sharp **exploratory analysis (EDA)**, and **dashboards that make executives stop scrolling and start deciding**.
+
+🎓 **Information Science Student** at the Faculty of Arts — building the theory behind the craft
+🏆 **Data Analysis Trainee** at the **Digital Egypt Pioneers Initiative (DEPI)** — sharpening the craft with real projects
+💡 No more guessing games: I turn gut-feeling decisions into **data-backed ones** using **Python, SQL, Power BI, Tableau,** and **Excel**
+🗣 **Talk to me about:** Data Cleaning · Interactive Dashboards · SQL Queries — I never get tired of this stuff
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&section=header" width="100%"/>
+
+## 🛠 The Arsenal
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=shahdsayedh2020246-source&theme=tokyonight&hide_border=true" width="60%" alt="GitHub streak"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![IBM Cognos Analytics](https://img.shields.io/badge/IBM_Cognos_Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=80&section=footer" width="100%" alt=""/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:764ba2,100:667eea&height=3&section=header" width="100%"/>
+
+## 📊 The Numbers Behind the Grind
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahdsayedh2020246-source&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&section=header" width="100%"/>
+
+## 🔗 Got a Dataset With a Story to Tell?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-mohamed-sayed-16062b356/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201121240919)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdsayedh2020246@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
 
 </div>
